@@ -19,6 +19,7 @@
   "scripts": {
     "help": "npm start -- help",
     "print": "npm start -- print",
+    "run": "npm start -- run",
     "start": "levelmeup",
     "verify": "npm start -- verify"
   }
