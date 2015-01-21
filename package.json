@@ -18,6 +18,7 @@
   "scripts": {
     "help": "levelmeup help",
     "print": "levelmeup print",
-    "start": "levelmeup"
+    "start": "levelmeup",
+    "verify": "npm start -- verify"
   }
 }
