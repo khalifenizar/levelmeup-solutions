@@ -6,10 +6,18 @@
   "bugs": {
     "url": "https://github.com/khalifenizar/levelmeup-solutions/issues"
   },
+  "dependencies": {
+    "levelmeup": "^0.1.10"
+  },
   "homepage": "https://github.com/khalifenizar/levelmeup-solutions",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/khalifenizar/levelmeup-solutions.git"
+  },
+  "scripts": {
+    "help": "levelmeup help",
+    "print": "levelmeup print",
+    "start": "levelmeup"
   }
 }
