@@ -16,8 +16,8 @@
     "url": "https://github.com/khalifenizar/levelmeup-solutions.git"
   },
   "scripts": {
-    "help": "levelmeup help",
-    "print": "levelmeup print",
+    "help": "npm start -- help",
+    "print": "npm start -- print",
     "start": "levelmeup",
     "verify": "npm start -- verify"
   }
