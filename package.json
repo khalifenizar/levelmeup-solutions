@@ -7,6 +7,7 @@
     "url": "https://github.com/khalifenizar/levelmeup-solutions/issues"
   },
   "dependencies": {
+    "level": "^0.18.0",
     "levelmeup": "^0.1.10"
   },
   "homepage": "https://github.com/khalifenizar/levelmeup-solutions",
