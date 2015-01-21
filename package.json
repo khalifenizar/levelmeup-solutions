@@ -1,0 +1,15 @@
+{
+  "name": "levelmeup-solutions",
+  "description": "My exercise solutions for Level Me Up Scotty!, a terminal workshop that is part of the NodeSchool family.",
+  "version": "1.0.0",
+  "author": "Nizar Khalife Iglesias <khalifenizar@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/khalifenizar/levelmeup-solutions/issues"
+  },
+  "homepage": "https://github.com/khalifenizar/levelmeup-solutions",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khalifenizar/levelmeup-solutions.git"
+  }
+}
